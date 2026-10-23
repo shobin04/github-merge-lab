@@ -1,1 +1,1 @@
-Application logging disabled
+Application logging enabled
