@@ -1,1 +1,1 @@
-Health endpoint: /health
+Health endpoint: /healthzzz
